@@ -1,4 +1,4 @@
-/** This function analyzes an array of integers to determine the maximum
+/** This method analyzes an array of integers to determine the maximum
   * difference between adjacent array elements.
   * @param inputArray - the array of integers to be analyzed
   * @return - the maximum adjacent difference found between array elements
