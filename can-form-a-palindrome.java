@@ -1,4 +1,4 @@
-/** This function analyzes a given string to determine     * if it can be rearranged to form a palindrome.
+/** This method analyzes a given string to determine     * if it can be rearranged to form a palindrome.
   * @param inputString - the string to be analyzed
   * @return - TRUE if the string can be rearranged to
   *           form a palindrome, FALSE otherwise
